@@ -15,5 +15,3 @@ Ao acertar todos os navios, o jogo é finalizado, alegando o vencedor da partida
 
 Execução do projeto:
 O projeto pode ser executado por meio de IDEs, preferencialmente o Eclipse.
-
-#Davi Duarte de Freitas
