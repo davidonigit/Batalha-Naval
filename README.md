@@ -33,6 +33,3 @@ Funcionamento do Tiro e Inimigo devolvendo o tiro:
 Fim do jogo:
 
 ![unnamed (4)](https://github.com/davidonigit/Batalha-Naval-Java/assets/93225780/481a4d98-987c-4ad3-828c-885a5cdbc48b)
-
-Execução do projeto:
-O projeto pode ser executado por meio de IDEs, preferencialmente o Eclipse.
